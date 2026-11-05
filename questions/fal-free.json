@@ -1,0 +1,594 @@
+{
+ "TFM11": [
+  {
+   "id": 246,
+   "category": "Texas Rules \u2014 Exemptions",
+   "type": "multiple_choice",
+   "question": "A building construction company installs fire alarm wiring as part of a construction contract. For the building contractor to be exempt from the licensing requirements of Chapter 6002, what two conditions must be met?",
+   "options": [
+    "The local AHJ must approve the contractor's fire alarm installation plan AND a licensed firm must perform the final inspection",
+    "The contractor must employ at least one NICET-certified technician AND carry general liability insurance",
+    "The contractor must be licensed as an electrician AND limit its work to rough-in conduit only",
+    "The installation must be performed under the direct supervision of and certified by a licensed employee of a registered firm, AND the registered firm must assume full responsibility for the fire alarm installation"
+   ],
+   "correct": 3,
+   "explanation": "Per \u00a76002.155(1), a building construction individual or organization is exempt only if: (A)(i) the installation will be performed under direct supervision of and certified by a licensed employee or agent of a registered firm, and (A)(ii) the registered firm assumes full responsibility for the installation. Additionally, the contractor must not plan, certify, lease, sell, service, or maintain fire alarms.",
+   "reference": ""
+  },
+  {
+   "id": 269,
+   "category": "Texas Rules \u2014 Device Standards",
+   "type": "multiple_choice",
+   "question": "Under Chapter 6002, what printed information must accompany a fire detection or fire alarm device when it is sold or installed in Texas?",
+   "options": [
+    "The manufacturer's warranty, a UL listing certificate, and the installing firm's registration number",
+    "NFPA 72 compliance documentation and the contact information of the installing firm",
+    "Installation, operation, testing, and maintenance instructions; information to aid in establishing an emergency evacuation plan; the telephone number and location of the nearest fire department including notification procedures; and information to help reduce false alarms",
+    "Installation instructions and a copy of the local fire department's emergency contact information"
+   ],
+   "correct": 2,
+   "explanation": "Per \u00a76002.252, a fire detection or alarm device may not be sold or installed unless accompanied by printed information covering: (A) installation, operation, testing, and maintenance instructions; (B) information to aid in establishing an emergency evacuation plan; (C) the telephone number, location, and notification procedures of the nearest fire department; and (D) information to reduce false alarms.",
+   "reference": ""
+  },
+  {
+   "id": 248,
+   "category": "Texas Rules \u2014 Exemptions",
+   "type": "multiple_choice",
+   "question": "A municipality-licensed electrician installs multiple-station smoke detectors in a multifamily apartment building. Under what conditions would this installation be exempt from Chapter 6002 licensing requirements?",
+   "options": [
+    "The detectors must not be connected to a control panel or to an outside alarm, must not transmit a signal off the premises, must not use more than 120 volts, and the installation must comply with the adopted edition of NFPA 72",
+    "No exemption exists for multifamily residential buildings \u2014 only single-family residences qualify",
+    "The electrician must be supervised by a licensed fire alarm technician, and the installation must comply with NFPA 72",
+    "The exemption applies automatically to any licensed electrician installing devices in a building with fewer than 20 units"
+   ],
+   "correct": 0,
+   "explanation": "Per \u00a76002.155(3), a licensed electrician may install single station detectors or multiple station detectors in single-family or multifamily residences without a fire alarm license, provided the detectors: are not connected to a control panel or outside alarm, do not transmit a signal off the premises, do not use more than 120 volts, and all installations comply with the adopted edition of NFPA 72.",
+   "reference": ""
+  },
+  {
+   "id": 270,
+   "category": "Texas Rules \u2014 Prohibited Practices",
+   "type": "multiple_choice",
+   "question": "Which of the following is listed as a prohibited practice under Texas Insurance Code \u00a76002.301?",
+   "options": [
+    "Obtaining or attempting to obtain a registration certificate or license by fraudulent representation",
+    "Performing fire alarm work on a Sunday without prior approval from the AHJ",
+    "Failing to display a license credential upon request by a property owner",
+    "Installing a device that is not listed by UL specifically, even if listed by another approved laboratory"
+   ],
+   "correct": 0,
+   "explanation": "Per \u00a76002.301, prohibited practices include: (1) engaging in regulated activities without a license or registration; (2) obtaining or attempting to obtain a certificate or license by fraudulent representation; and (3) engaging in regulated activities in violation of the chapter or adopted rules. Fraudulent attempts to obtain a license are explicitly prohibited even if the attempt fails.",
+   "reference": ""
+  },
+  {
+   "id": 277,
+   "category": "Texas Rules \u2014 Licensing",
+   "type": "multiple_choice",
+   "question": "Under Texas Insurance Code Chapter 6002, which of the following best describes the scope of a fire alarm technician's licensed activities?",
+   "options": [
+    "Install, service, maintain, and plan fire alarm systems for residential occupancies only",
+    "Inspect and certify installed systems as meeting legal standards, OR perform or directly supervise the servicing or maintaining of a previously installed fire alarm device or system and certify that service",
+    "Perform any fire alarm work authorized by a registered firm, including planning and design of new systems",
+    "Install and test fire alarm systems under the supervision of a fire alarm planning superintendent"
+   ],
+   "correct": 1,
+   "explanation": "Per \u00a76002.002(3), a 'fire alarm technician' is a licensed individual designated by a registered firm to: (A) inspect and certify that each fire alarm or detection system as installed meets the standards provided by law; OR (B) perform or directly supervise the servicing or maintaining of a previously installed fire alarm device or system and certify that service or maintenance.",
+   "reference": ""
+  },
+  {
+   "id": 276,
+   "category": "Texas Rules \u2014 Licensing",
+   "type": "multiple_choice",
+   "question": "Under Texas Insurance Code Chapter 6002, what is the definition of a 'fire alarm planning superintendent'?",
+   "options": [
+    "A licensed individual responsible for supervising all installation work performed by fire alarm technicians at a registered firm",
+    "Any licensed individual authorized to design, install, and certify fire alarm systems in commercial occupancies",
+    "A licensed individual who oversees monitoring operations and certifies that central station procedures comply with NFPA standards",
+    "A licensed individual designated by a registered firm to plan a fire alarm or detection system that conforms to applicable standards AND certify that each system as planned meets those standards"
+   ],
+   "correct": 3,
+   "explanation": "Per \u00a76002.002(2), a 'fire alarm planning superintendent' is a licensed individual designated by a registered firm to: (A) plan a fire alarm or detection system that conforms to applicable adopted NFPA standards or other adopted standards; and (B) certify that each fire alarm or detection system as planned meets the standards as provided by law.",
+   "reference": ""
+  },
+  {
+   "id": 232,
+   "category": "Texas Rules \u2014 Administration",
+   "type": "multiple_choice",
+   "question": "Regarding advertising by fire alarm license and registration holders, which of the following restrictions may the commissioner NOT impose?",
+   "options": [
+    "Requiring accurate representation of services offered",
+    "Prohibiting deceptive advertising practices",
+    "Prohibiting false or misleading advertising",
+    "Restricting the use of any medium for advertising"
+   ],
+   "correct": 3,
+   "explanation": "Per \u00a76002.053, the commissioner may not adopt rules restricting advertising or competitive bidding except to prohibit false, misleading, or deceptive practices. Specifically, the commissioner cannot restrict the medium used for advertising, the use of personal appearance or voice, the size or duration of ads, or advertising under a trade name.",
+   "reference": ""
+  },
+  {
+   "id": 260,
+   "category": "Texas Rules \u2014 Training Schools",
+   "type": "multiple_choice",
+   "question": "What are the minimum curriculum requirements for a residential fire alarm technician training course approved under Chapter 6002?",
+   "options": [
+    "At least 16 hours of instruction covering NFPA 72, plus a written exam requiring a score of at least 70%",
+    "At least 7 hours of instruction on NFPA 72 technical content only \u2014 state rules are covered in the licensing exam",
+    "At least 4 hours of classroom instruction plus at least 3 hours of hands-on lab work, followed by a practical examination",
+    "At least 7 hours of instruction on installing, servicing, and maintaining single-family and two-family residential fire alarm systems, plus an examination of at least 25 questions requiring at least 80% correct answers, with at least 1 hour allocated for the exam"
+   ],
+   "correct": 3,
+   "explanation": "Per \u00a76002.158(e), the curriculum must consist of at least 7 hours of instruction on installing, servicing, and maintaining single-family and two-family residential fire alarm systems per NFPA 72, plus an examination on NFPA 72 with at least 1 hour allocated, consisting of at least 25 questions, with a passing score of at least 80%.",
+   "reference": ""
+  },
+  {
+   "id": 262,
+   "category": "Texas Rules \u2014 Continuing Education",
+   "type": "true_false",
+   "question": "Under Texas Insurance Code Chapter 6002, participation in continuing education programs for fire alarm license holders is mandatory.",
+   "options": [
+    "False",
+    "True"
+   ],
+   "correct": 0,
+   "explanation": "False. Per \u00a76002.159(b), participation in continuing education programs is voluntary. The statute authorizes the commissioner to adopt procedures for certifying CE programs, but does not require participation. Note: administrative rules (28 TAC) may impose additional CE requirements \u2014 verify against current TAC Chapter 34 rules.",
+   "reference": ""
+  },
+  {
+   "id": 272,
+   "category": "Texas Rules \u2014 Disciplinary",
+   "type": "multiple_choice",
+   "question": "After a registration certificate or license has been revoked under Chapter 6002, when may the holder file a new application?",
+   "options": [
+    "After two years from the date of revocation, and only if no additional violations occurred",
+    "After 90 days from the date of revocation, upon payment of a reinstatement fee",
+    "Immediately upon revocation \u2014 the individual may apply for a new license at any time",
+    "Not before the first anniversary of the effective date of the revocation \u2014 and the applicant must request a public hearing to show cause why a new certificate or license should not be denied"
+   ],
+   "correct": 3,
+   "explanation": "Per \u00a76002.304, a holder whose certificate, license, or approval has been revoked may not file a new application before the first anniversary of the effective date of the revocation. Additionally, the reapplicant must request a public hearing to show cause why the issuance of a new certificate or license should not be denied.",
+   "reference": ""
+  },
+  {
+   "id": 230,
+   "category": "Texas Rules \u2014 Local Regulation",
+   "type": "multiple_choice",
+   "question": "Under Texas Insurance Code Chapter 6002, which of the following is something a municipality or county IS permitted to do?",
+   "options": [
+    "Set its own insurance minimums for registered firms operating within its limits",
+    "Issue its own fire alarm technician license with different requirements than the state license",
+    "Require regular inspections by local officials of smoke detectors in dwelling units and require them to be operational at the time of inspection",
+    "Require all fire alarm firms operating within its borders to register with the municipality"
+   ],
+   "correct": 2,
+   "explanation": "Per \u00a76002.003(b)(3), a municipality or county may require regular inspections by local officials of smoke detectors in dwelling units and require the detectors to be operational at the time of inspection. Issuing separate licenses, requiring municipal registration, or setting separate insurance minimums are all prohibited.",
+   "reference": ""
+  },
+  {
+   "id": 271,
+   "category": "Texas Rules \u2014 Disciplinary",
+   "type": "multiple_choice",
+   "question": "When the state fire marshal proposes to suspend or revoke a license or registration certificate, what process is the holder entitled to?",
+   "options": [
+    "A hearing before the commissioner of insurance and a three-member review panel",
+    "A hearing conducted by the State Office of Administrative Hearings, governed by Chapter 2001, Government Code",
+    "An informal conference with the fire marshal before any formal hearing is required",
+    "The holder has no right to a hearing for license suspension \u2014 only revocation triggers a hearing right"
+   ],
+   "correct": 1,
+   "explanation": "Per \u00a76002.303(a) and (b), when the state fire marshal proposes to suspend, revoke, or refuse to renew a license or registration certificate, the holder is entitled to a hearing conducted by the State Office of Administrative Hearings. Proceedings are governed by Chapter 2001, Government Code (Administrative Procedure Act).",
+   "reference": ""
+  },
+  {
+   "id": 279,
+   "category": "Texas Rules \u2014 Local Regulation",
+   "type": "true_false",
+   "question": "A municipality may require a registered fire alarm firm to obtain a franchise from the municipality as a condition of performing fire alarm work within its borders.",
+   "options": [
+    "False",
+    "True"
+   ],
+   "correct": 0,
+   "explanation": "False. Per \u00a76002.003(c)(1), a municipality, county, or other political subdivision may not require a registered firm, license holder, or employee to obtain a registration, franchise, or license from the political subdivision as a condition of engaging in business or performing any activity authorized under this chapter.",
+   "reference": ""
+  },
+  {
+   "id": 275,
+   "category": "Texas Rules \u2014 Records",
+   "type": "multiple_choice",
+   "question": "Which of the following records maintained by the department under Chapter 6002 are confidential and NOT subject to mandatory disclosure under the Public Information Act?",
+   "options": [
+    "All records related to disciplinary actions and complaints \u2014 these are sealed by statute",
+    "Examination scores and test performance data of individual applicants",
+    "Home address, home telephone number, driver's license number, and social security number of applicants and license or registration holders",
+    "Only social security numbers \u2014 all other applicant information is public record"
+   ],
+   "correct": 2,
+   "explanation": "Per \u00a76002.056, records maintained by the department on the home address, home telephone number, driver's license number, or social security number of an applicant or a license or registration holder are confidential and are not subject to mandatory disclosure under Chapter 552, Government Code (Public Information Act).",
+   "reference": ""
+  },
+  {
+   "id": 258,
+   "category": "Texas Rules \u2014 Training Schools",
+   "type": "multiple_choice",
+   "question": "Which of the following is required for an individual to be approved as a training school instructor under Chapter 6002?",
+   "options": [
+    "Hold a NICET Level III or higher certification and have at least five years of field experience",
+    "Have at least five years of experience as a licensed fire alarm technician",
+    "Hold a fire alarm planning superintendent license only \u2014 technician licenses do not qualify",
+    "Hold a fire alarm planning superintendent, residential fire alarm superintendent, or fire alarm technician license AND have at least three years of experience in fire alarm installation, service, or monitoring"
+   ],
+   "correct": 3,
+   "explanation": "Per \u00a76002.158(c), to be eligible for approval as an instructor, an individual must: (1) hold a fire alarm planning superintendent license, residential fire alarm superintendent license, OR fire alarm technician license; AND (2) have at least three years of experience in fire alarm installation, service, or monitoring.",
+   "reference": ""
+  },
+  {
+   "id": 267,
+   "category": "Texas Rules \u2014 Device Standards",
+   "type": "multiple_choice",
+   "question": "Under Chapter 6002, what label requirement applies to fire detection or alarm devices sold, offered for sale, leased, installed, or used to monitor property in Texas?",
+   "options": [
+    "The device must be listed by UL specifically \u2014 no other testing laboratory is accepted",
+    "Only monitoring equipment is required to carry a testing laboratory label \u2014 detection devices are exempt if installed per NFPA 72",
+    "The device must carry a label of approval or listing from a testing laboratory approved by the department",
+    "The device must carry a label from any nationally recognized testing laboratory, regardless of department approval"
+   ],
+   "correct": 2,
+   "explanation": "Per \u00a76002.251(a), a detection or alarm device, alarm system, or monitoring equipment may not be sold, offered for sale, leased, installed, or used to monitor property in Texas unless it carries a label of approval or listing of a testing laboratory approved by the department \u2014 not just any testing lab.",
+   "reference": ""
+  },
+  {
+   "id": 253,
+   "category": "Texas Rules \u2014 Examination",
+   "type": "multiple_choice",
+   "question": "When a testing service administers the fire alarm license examination, within what time frame must the state fire marshal send notice of results to examinees?",
+   "options": [
+    "Within two weeks after the date the state fire marshal receives the results from the testing service",
+    "Within 30 days after the date the examination is administered",
+    "Within 14 days after the date the examination is administered",
+    "On the same day the testing service provides results to the fire marshal"
+   ],
+   "correct": 0,
+   "explanation": "Per \u00a76002.157(b), when a testing service is used, the state fire marshal shall send notice within two weeks after the date on which the fire marshal receives the results from the testing service. This is distinct from direct administration, where notice must be sent within 30 days after the exam date.",
+   "reference": ""
+  },
+  {
+   "id": 266,
+   "category": "Texas Rules \u2014 Renewal",
+   "type": "multiple_choice",
+   "question": "A fire alarm technician whose license is current (not expired) loses their job and is no longer employed by a registered firm. May they renew their license when it comes due?",
+   "options": [
+    "No \u2014 renewal requires proof of current employment with a registered firm",
+    "No \u2014 the license automatically becomes inactive and cannot be renewed until employment is reestablished",
+    "Yes \u2014 a license holder not employed by a registered firm may still renew the license, but may not engage in any licensed activity until again employed by a registered firm",
+    "Yes \u2014 and the license remains fully active with no restrictions during unemployment"
+   ],
+   "correct": 2,
+   "explanation": "Per \u00a76002.204, a license holder with an unexpired license who is not employed by a registered firm at the time of renewal may renew that license. However, the holder may not engage in any licensed activity until again employed by a registered firm. The license is renewed but restricted.",
+   "reference": ""
+  },
+  {
+   "id": 265,
+   "category": "Texas Rules \u2014 Renewal",
+   "type": "multiple_choice",
+   "question": "A registered firm submits an incomplete renewal application but has not allowed its required insurance to lapse. What does Chapter 6002 provide in this situation?",
+   "options": [
+    "The department issues a conditional registration and the firm has 90 days to cure the deficiency",
+    "The applicant has 30 days from notification of the deficiencies to comply \u2014 if the applicant fails to respond and correct all deficiencies within 30 days, the department may charge a late fee",
+    "The firm has 14 days to correct deficiencies before a late fee is assessed",
+    "The application is automatically rejected and the firm must submit a new complete application"
+   ],
+   "correct": 1,
+   "explanation": "Per \u00a76002.203(g), if a renewal application is not complete but insurance has not lapsed, the applicant is entitled to 30 days from the date notified by the department to comply with additional requirements. Failure to correct all deficiencies within 30 days may result in a late fee.",
+   "reference": ""
+  },
+  {
+   "id": 231,
+   "category": "Texas Rules \u2014 Administration",
+   "type": "multiple_choice",
+   "question": "When adopting rules to administer Texas Insurance Code Chapter 6002, the commissioner may use which of the following sources?",
+   "options": [
+    "NFPA standards and UL listing standards only",
+    "Only standards that have been adopted by the International Code Council",
+    "Only NFPA standards and federal law \u2014 no other sources are permitted by statute",
+    "NFPA standards, federal law or regulatory standards, standards from a nationally recognized standards-making organization, the National Electrical Code, and information provided by individual manufacturers"
+   ],
+   "correct": 3,
+   "explanation": "Per \u00a76002.052(a), the commissioner may use: (1) recognized standards including NFPA standards, federal law/regulation, or standards from a nationally recognized standards-making organization; (2) the National Electrical Code; or (3) information provided by individual manufacturers.",
+   "reference": ""
+  }
+ ],
+ "TFM12": [
+  {
+   "id": 238,
+   "category": "NFPA 70 \u2014 NEC Article 760",
+   "type": "multiple_choice",
+   "question": "Per NEC 760.1, which of the following systems is explicitly included within the scope of Article 760?",
+   "options": [
+    "Sprinkler waterflow and sprinkler supervisory systems",
+    "Security alarm systems monitoring intrusion",
+    "Emergency lighting circuits",
+    "Public address and intercom systems"
+   ],
+   "correct": 0,
+   "explanation": "NEC 760.1 Informational Note states that fire alarm systems include fire detection and alarm notification, guard's tour, sprinkler waterflow, and sprinkler supervisory systems. Circuits for building safety functions (elevator capture, door release, fan shutdown) powered by the fire alarm system are also included.",
+   "reference": "760.1"
+  },
+  {
+   "id": 236,
+   "category": "NFPA 70 \u2014 NEC Article 760",
+   "type": "multiple_choice",
+   "question": "Under what condition may a power-limited fire alarm (PLFA) circuit be reclassified and installed as a non-power-limited (NPLFA) circuit?",
+   "options": [
+    "When the PLFA circuit markings required by 760.124 are eliminated and the entire circuit is installed using NPLFA wiring methods",
+    "When the circuit is extended beyond one building",
+    "When the conductor size is upgraded to 14 AWG or larger",
+    "When the circuit is installed in a metal raceway throughout its length"
+   ],
+   "correct": 0,
+   "explanation": "Per NEC 760.130(A) Exception No.3, a PLFA circuit may be reclassified as NPLFA if the power-limited circuit markings required by 760.124 are eliminated and the entire circuit is installed using NPLFA wiring methods and materials. Once reclassified, it is no longer a PLFA circuit.",
+   "reference": "760.130(A) Exception 3"
+  },
+  {
+   "id": 43,
+   "category": "Detectors \u2014 Types",
+   "type": "multiple_choice",
+   "question": "How does a cloud chamber smoke detector detect smoke?",
+   "options": [
+    "It detects the infrared signature of flames using a heat-sensitive optical sensor",
+    "It uses a laser beam across a wide area \u2014 smoke interrupts the beam and triggers the alarm",
+    "It measures the electrical conductivity of air \u2014 smoke particles change the resistance",
+    "It draws air into a supersaturated expansion chamber where combustion particles act as condensation nuclei, forming droplets that are detected optically"
+   ],
+   "correct": 3,
+   "explanation": "A cloud chamber smoke detector (a type of air-sampling detector) draws air into a chamber where the air is expanded to create a supersaturated atmosphere. Combustion particles in the sampled air serve as condensation nuclei, causing droplet formation. An optical sensor detects the resulting cloud. This is distinct from an ionization smoke detector, which uses a small radioactive source (americium-241) to ionize air between charged plates.",
+   "reference": ""
+  },
+  {
+   "id": 83,
+   "category": "Monitoring \u2014 Transmission",
+   "type": "multiple_choice",
+   "question": "What transmission channel configuration does NFPA 72 require for a DACT?",
+   "options": [
+    "One telephone line plus one additional alternate transmission means (such as a one-way private radio system or two-way RF multiplex system)",
+    "No dedicated lines \u2014 DACTs use the building's existing shared telephone system",
+    "Two telephone lines \u2014 if the primary line fails, the unit seizes the second line",
+    "Three channels \u2014 primary, backup, and supervisory"
+   ],
+   "correct": 0,
+   "explanation": "Per NFPA 72 Chapter 26, a system employing a DACT shall use one telephone line plus one of the following alternate means: a one-way private radio alarm system, a two-way RF multiplex system, or another approved transmission means. Two telephone lines are permitted only by exception where alternate technology is unavailable and the AHJ approves \u2014 they are not the standard required configuration.",
+   "reference": ""
+  },
+  {
+   "id": 187,
+   "category": "NFPA 72 Ch. 17 \u2014 Initiating Devices",
+   "type": "true_false",
+   "question": "Per NFPA 72, a heat detector with a fixed temperature rating of 135\u00b0F may be installed in a space where the maximum ambient ceiling temperature is 120\u00b0F.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "explanation": "False. Per NFPA 72 \u00a717.6.2.3, a fixed-temperature heat detector must be rated at least 20\u00b0F (11\u00b0C) above the maximum expected ambient ceiling temperature. With a max ambient of 120\u00b0F, the minimum allowable detector rating is 140\u00b0F. A 135\u00b0F detector is only 15\u00b0F above the ambient \u2014 it does not meet the 20\u00b0F minimum margin and risks nuisance alarms or failure to activate during a slow fire.",
+   "reference": ""
+  },
+  {
+   "id": 85,
+   "category": "Power \u2014 Secondary",
+   "type": "multiple_choice",
+   "question": "How often must batteries in a fire alarm control unit be replaced per NFPA 72?",
+   "options": [
+    "Only when a trouble signal indicates low battery voltage",
+    "Every 2 years regardless of condition",
+    "In accordance with the alarm equipment manufacturer's recommendations, or whenever the battery fails a load test",
+    "At least every 5 years, regardless of condition"
+   ],
+   "correct": 2,
+   "explanation": "Per NFPA 72 Chapter 14 (Table 14.4.3.2), batteries shall be replaced in accordance with the recommendations of the alarm equipment manufacturer, or when the recharged battery voltage or current falls below the manufacturer's recommendations. There is no universal 5-year mandate in the code \u2014 the replacement interval is determined by the manufacturer's guidance and load test results.",
+   "reference": ""
+  },
+  {
+   "id": 180,
+   "category": "NFPA 72 Ch. 14 \u2014 Inspection, Testing, Maintenance",
+   "type": "true_false",
+   "question": "Per NFPA 72, batteries in fire alarm control units must be replaced at least every 5 years.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "explanation": "False. NFPA 72 Chapter 14 requires batteries to be replaced in accordance with the alarm equipment manufacturer's recommendations \u2014 or whenever a load test shows the battery cannot meet standby and alarm requirements. There is no universal 5-year mandate in the code; the replacement interval depends on battery type and manufacturer specifications, which may be shorter than 5 years.",
+   "reference": ""
+  },
+  {
+   "id": 56,
+   "category": "Notification Appliances",
+   "type": "multiple_choice",
+   "question": "What is the minimum sound pressure level required in a public area (non-sleeping) by NFPA 72?",
+   "options": [
+    "At least 15 dB above the average ambient sound level, or 5 dB above the maximum ambient sound level (lasting \u226560 seconds) \u2014 whichever is greater",
+    "10 dBA above the peak ambient noise level",
+    "75 dBA measured at the center of the protected space",
+    "60 dBA at any point within the protected area"
+   ],
+   "correct": 0,
+   "explanation": "Per NFPA 72 Chapter 18, audible public mode signals must have a sound level at least 15 dB above the average ambient sound level or at least 5 dB above the maximum sound level having a duration of at least 60 seconds \u2014 whichever is greater \u2014 measured 5 ft above the floor using the A-weighted scale (dBA). There is no absolute minimum dBA floor specified for public mode in the code.",
+   "reference": ""
+  },
+  {
+   "id": 49,
+   "category": "Detectors \u2014 Heat",
+   "type": "multiple_choice",
+   "question": "What is the standard fixed-temperature rating for a heat detector installed in a room with a maximum ambient temperature of 100\u00b0F?",
+   "options": [
+    "212\u00b0F \u2014 the minimum listing temperature for any heat detector",
+    "135\u00b0F \u2014 the detector's rated temperature must be at least 20\u00b0F above the maximum ceiling ambient",
+    "100\u00b0F \u2014 the detector must match the maximum ambient temperature exactly",
+    "165\u00b0F \u2014 all standard heat detectors are rated at 165\u00b0F regardless of ambient"
+   ],
+   "correct": 1,
+   "explanation": "Per NFPA 72 \u00a717.6.2.3, a fixed-temperature heat detector must be rated at least 20\u00b0F (11\u00b0C) above the maximum expected ambient temperature at the ceiling. In a room with a 100\u00b0F max ambient, the minimum allowable rating is 120\u00b0F. Since standard detectors are listed in fixed increments (135\u00b0F, 155\u00b0F, etc.), the lowest available rated temperature that satisfies the code is 135\u00b0F.",
+   "reference": ""
+  },
+  {
+   "id": 209,
+   "category": "NFPA 72 Ch. 26 \u2014 Supervising Station Systems",
+   "type": "true_false",
+   "question": "Per NFPA 72, a Digital Alarm Communicator Transmitter (DACT) must be connected to two separate telephone lines to ensure redundant transmission capability.",
+   "options": [
+    "False",
+    "True"
+   ],
+   "correct": 0,
+   "explanation": "False. NFPA 72 Chapter 26 requires a DACT to use one telephone line plus one additional alternate transmission means \u2014 such as a one-way private radio alarm system, a two-way RF multiplex system, or another approved transmission method. Two telephone lines are a permitted alternative to the required alternate means, but they are not the only option and are not mandated.",
+   "reference": ""
+  },
+  {
+   "id": 81,
+   "category": "Monitoring \u2014 Central Station",
+   "type": "multiple_choice",
+   "question": "Per NFPA 72, what is the maximum allowable time from the initiation of an alarm signal at the protected premises until it is displayed and recorded at the supervising station?",
+   "options": [
+    "5 minutes",
+    "90 seconds",
+    "2 minutes",
+    "30 seconds"
+   ],
+   "correct": 1,
+   "explanation": "Per NFPA 72 Chapter 26, the end-to-end communication time for alarm \u2014 from initiation at the protected premises through transmission and display at the supervising station \u2014 shall not exceed 90 seconds. Once received, \u00a726.2.1 requires the supervising station to immediately retransmit the signal to the fire department communications center.",
+   "reference": ""
+  },
+  {
+   "id": 207,
+   "category": "NFPA 72 Ch. 26 \u2014 Supervising Station Systems",
+   "type": "multiple_choice",
+   "question": "Per NFPA 72 Chapter 26, what is the maximum allowable time from the initiation of an alarm signal at the protected premises until it is displayed and recorded at the supervising station?",
+   "options": [
+    "5 minutes",
+    "2 minutes",
+    "30 seconds",
+    "90 seconds"
+   ],
+   "correct": 3,
+   "explanation": "Per NFPA 72 Chapter 26, the time between initiation of an alarm at the protected premises, transmission of the signal, and display and recording at the supervising station shall not exceed 90 seconds. Once received, \u00a726.2.1 requires the supervising station to immediately retransmit to the fire department communications center.",
+   "reference": ""
+  },
+  {
+   "id": 172,
+   "category": "NFPA 72 Ch. 7 \u2014 Documentation",
+   "type": "multiple_choice",
+   "question": "How long must records of inspection, testing, and maintenance be retained per NFPA 72?",
+   "options": [
+    "1 year from the date of the inspection only",
+    "Until the next test and for 1 year thereafter",
+    "Until the system is replaced",
+    "5 years"
+   ],
+   "correct": 1,
+   "explanation": "Per NFPA 72 Chapter 7, records of inspections, testing, and maintenance shall be retained until the next test and for 1 year thereafter. For a system inspected annually, records must be kept for approximately 2 years \u2014 through the following inspection and one additional year. The AHJ may require longer retention.",
+   "reference": ""
+  },
+  {
+   "id": 189,
+   "category": "NFPA 72 Ch. 17 \u2014 Initiating Devices",
+   "type": "multiple_choice",
+   "question": "What is the purpose of a supervisory switch (tamper switch) on a sprinkler control valve?",
+   "options": [
+    "To record the number of times the valve has been operated for maintenance tracking",
+    "To generate a supervisory signal if the valve is closed \u2014 alerting monitoring personnel that the sprinkler system may be impaired",
+    "To trigger an immediate fire alarm if the valve is moved to the closed position",
+    "To automatically reopen the valve if it is accidentally closed"
+   ],
+   "correct": 1,
+   "explanation": "A supervisory (tamper) switch monitors the position of a sprinkler control valve. If the valve is partially or fully closed, the switch generates a supervisory signal at the fire alarm panel. This alerts monitoring personnel that the sprinkler system may be impaired without triggering a full fire alarm.",
+   "reference": ""
+  },
+  {
+   "id": 195,
+   "category": "NFPA 72 Ch. 21 \u2014 Emergency Control Functions",
+   "type": "multiple_choice",
+   "question": "Per NFPA 72 Chapter 21, what action must a fire alarm system initiate for HVAC systems upon receiving an alarm signal?",
+   "options": [
+    "No HVAC interface is required \u2014 HVAC control is handled separately by the mechanical system",
+    "Increase airflow to clear smoke from occupied spaces",
+    "Switch the HVAC system to 100% outside air to dilute smoke",
+    "Shut down air handling units as required to prevent smoke spread \u2014 specific actions depend on the design and AHJ requirements"
+   ],
+   "correct": 3,
+   "explanation": "NFPA 72 Chapter 21 requires fire alarm systems to interface with HVAC systems. Typically this means shutting down air handlers that could spread smoke. Specific requirements \u2014 such as which units shut down and which continue for smoke control \u2014 depend on the building's smoke control design and the AHJ.",
+   "reference": ""
+  },
+  {
+   "id": 201,
+   "category": "NFPA 72 Ch. 23 \u2014 Protected Premises Systems",
+   "type": "multiple_choice",
+   "question": "A presignal system, permitted under NFPA 72 Chapter 23 in specific occupancies, does which of the following?",
+   "options": [
+    "Sounds an alarm only at a constantly attended location first \u2014 allowing staff to investigate before the general alarm sounds",
+    "Sends a signal to the monitoring station before activating local notification appliances",
+    "Activates notification appliances in the fire zone first, then spreads to adjacent zones",
+    "Requires two separate initiating devices to activate before the general alarm sounds"
+   ],
+   "correct": 0,
+   "explanation": "A presignal system initially alerts only a constantly attended location \u2014 such as a front desk or security station \u2014 before sounding the general alarm. This allows trained staff to investigate first. Presignal systems are only permitted in specific occupancies where an attended station is guaranteed.",
+   "reference": ""
+  },
+  {
+   "id": 78,
+   "category": "Initiating Devices",
+   "type": "multiple_choice",
+   "question": "Per NFPA 72, at what height must manual pull stations be mounted?",
+   "options": [
+    "Between 48 and 60 inches above the finished floor",
+    "At exactly 48 inches above the finished floor",
+    "Between 36 and 48 inches above the finished floor",
+    "Between 42 and 48 inches above the finished floor"
+   ],
+   "correct": 3,
+   "explanation": "Per NFPA 72 Chapter 17, the operable part of a manually actuated alarm-initiating device shall be not less than 42 in. and not more than 48 in. above the finished floor. This range aligns with ADA accessibility requirements and ensures both standing adults and wheelchair users can reach the device.",
+   "reference": ""
+  },
+  {
+   "id": 110,
+   "category": "Detectors \u2014 Placement",
+   "type": "multiple_choice",
+   "question": "Per NFPA 72, smoke detectors must be installed on which side of a doorway when used to control doors held open by magnetic holders?",
+   "options": [
+    "Only on the corridor side of the door",
+    "Only above the door in the door frame itself",
+    "On both sides of the door, or in the room the door is protecting, depending on airflow",
+    "Only on the room side of the door"
+   ],
+   "correct": 2,
+   "explanation": "When smoke detectors are used to release door holders, NFPA 72 requires them to be placed considering airflow and the location being protected. Coverage on both sides or within the room, depending on the design intent and airflow direction, ensures the door closes before smoke spreads.",
+   "reference": ""
+  },
+  {
+   "id": 198,
+   "category": "NFPA 72 Ch. 21 \u2014 Emergency Control Functions",
+   "type": "true_false",
+   "question": "Fire doors equipped with electromagnetic holders must fail in the OPEN position when power is lost, so occupants can continue to pass through them during an emergency.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "correct": 1,
+   "explanation": "False. Fire doors with electromagnetic holders fail in the CLOSED position \u2014 the spring or gravity closer shuts the door when power is removed. Holding the door open requires continuous power. This ensures compartmentation is maintained when power fails or the fire alarm activates.",
+   "reference": ""
+  },
+  {
+   "id": 204,
+   "category": "NFPA 72 Ch. 24 \u2014 Emergency Communications",
+   "type": "multiple_choice",
+   "question": "Which occupancies are most commonly required to have an Emergency Voice/Alarm Communication (EVAC) system?",
+   "options": [
+    "All commercial buildings over 5,000 square feet",
+    "High-rise buildings and large assembly occupancies where staged evacuation is used",
+    "Only healthcare and educational occupancies",
+    "Buildings with more than 10 floors \u2014 no other occupancy type requires EVAC"
+   ],
+   "correct": 1,
+   "explanation": "EVAC systems are commonly required in high-rise buildings (typically over 75 feet) and large assembly occupancies where staged or selective evacuation is used. NFPA 101 and local codes specify which occupancies require EVAC \u2014 high-rises are the most universal requirement.",
+   "reference": ""
+  }
+ ]
+}
